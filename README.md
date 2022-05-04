@@ -24,7 +24,7 @@ I have many soft skills and other important qualities which I developed through 
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
 
 ## 📊 Top Repositories
-[![Dicoding-AndroidPemula](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Dicoding-AndroidPemula&show_icons=true&theme=radical)](https://github.com/fachridantm/Dicoding-AndroidPemula) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=fachridantm&repo=Smart-Villager&show_icons=true&theme=radical)](https://github.com/fachridantm/Smart-Villager)
+[![InstaPorts](https://github-readme-stats.vercel.app/api/pin/?username=orangmuda&repo=instaports&show_icons=true&theme=radical)](https://github.com/orangmuda/instaports) &nbsp;&nbsp; [![Smart-Villager](https://github-readme-stats.vercel.app/api/pin/?username=orangmuda&repo=faceports&show_icons=true&theme=radical)](https://github.com/orangmuda/faceports)
 
 ## 📈 Github Stats
   
@@ -34,15 +34,15 @@ I have many soft skills and other important qualities which I developed through 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=orangmuda&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=fachridantm&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@orangmuda)
+| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=orangmuda&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@orangmuda)
 | ------------- |
 
 ---
 
-![orangmuda's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fachridantm&hide_border=true&theme=redical)
+![orangmuda's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=orangmuda&hide_border=true&theme=redical)
 
 ## 🤝🏻 Connect with Me!
-[![Email: andri.redteam@gmail.com](https://img.shields.io/badge/-andri.redteam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:andri.redteam@gmail.com)
+[![Email: justcallmeethom@wearehackerone.com](https://img.shields.io/badge/-justcallmeethom@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:justcallmeethom@wearehackerone.com)
 [![LinkedIn: ANDRI](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)&nbsp;
 [![Instagram: Follow ANDRI](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wearethoms)&nbsp;
 [![Telegram: ANDRI](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fachridantm)](https://t.me/kucing0822)&nbsp;
