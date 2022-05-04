@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
 ![Version: 10.03.2022](https://img.shields.io/badge/version-10.03.2022-informational)&nbsp;
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=fachridantm)&nbsp;
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=orangmuda)&nbsp;
 [![Wakatime](https://wakatime.com/badge/user/86dab614-3d73-414f-ac95-9d23f118db89.svg)](https://wakatime.com/@orangmuda)&nbsp;
 [![GitHub: OrangMuda](https://img.shields.io/github/followers/orangmuda?label=follow&style=social)](https://github.com/orangmuda)&nbsp;
 
@@ -16,8 +16,8 @@ I have many soft skills and other important qualities which I developed through 
 
 ## 🛠 Tech Stack
   [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/fachridantm/)&nbsp;
-  [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/fachridantm/)&nbsp;
+  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/orangmuda/)&nbsp;
+  [![GitLab](https://img.shields.io/badge/-GitLab-%23fc6d26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/orangmuda/)&nbsp;
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)&nbsp;
@@ -34,9 +34,6 @@ I have many soft skills and other important qualities which I developed through 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=orangmuda&hide_border=true&theme=radical">
 | ------------- |
 
-| [<img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=orangmuda&layout=compact&hide_border=true&theme=radical">](https://wakatime.com/@orangmuda)
-| ------------- |
-
 ---
 
 ![orangmuda's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=orangmuda&hide_border=true&theme=redical)
@@ -45,8 +42,8 @@ I have many soft skills and other important qualities which I developed through 
 [![Email: justcallmeethom@wearehackerone.com](https://img.shields.io/badge/-justcallmeethom@wearehackerone.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:justcallmeethom@wearehackerone.com)
 [![LinkedIn: ANDRI](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)&nbsp;
 [![Instagram: Follow ANDRI](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/wearethoms)&nbsp;
-[![Telegram: ANDRI](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/fachridantm)](https://t.me/kucing0822)&nbsp;
-[![Linktree: ANDRI](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/fachridantm)](https://linktr.ee/)&nbsp;
+[![Telegram: ANDRI](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram&logoColor=white&link=https://t.me/orangmuda)](https://t.me/kucing0822)&nbsp;
+[![Linktree: ANDRI](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/)](https://linktr.ee/)&nbsp;
 [![Twitter: Follow @orangmuda](https://img.shields.io/twitter/follow/orangmuda?style=social)](https://twitter.com/orangmuda)
 ---
 
