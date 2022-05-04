@@ -50,4 +50,4 @@ I have many soft skills and other important qualities which I developed through 
 [![Twitter: Follow @fachridantm](https://img.shields.io/twitter/follow/fachridantm?style=social)](https://twitter.com/orangmuda)
 ---
 
-<img align="center" src="https://github.com/orangmuda/orangmuda/blob/output/github-contribution-grid-snake.svg" alt="Snake">
+<img align="center" src="https://github.com/orangmuda/orangmuda/blob/main/github-contribution-grid-snake.svg" alt="Snake">
