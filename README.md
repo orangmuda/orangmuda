@@ -46,5 +46,3 @@ I have many soft skills and other important qualities which I developed through 
 [![Linktree: ANDRI](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/)](https://linktr.ee/)&nbsp;
 [![Twitter: Follow @orangmuda](https://img.shields.io/twitter/follow/orangmuda?style=social)](https://twitter.com/orangmuda)
 ---
-
-<img align="center" src="https://github.com/orangmuda/orangmuda/blob/main/github-contribution-grid-snake.svg" alt="Snake">
